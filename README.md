@@ -33,7 +33,7 @@ This folder is meant to be the **root** of a public repository. The game repo is
 
 `CNAME` in this folder contains `kpopempire.net`. If you publish with GitHub Actions, set the custom domain in the Pages settings as well. Actions does not read that file.
 
-Porkbun login is the account **aneltaigweh**. The password is in Anelta's Grok Bot vault entry `porkbun.com`. Do not put the password in the repository.
+The registrar login is kept privately by the owner. Never put passwords in this repository.
 
 ### DNS records
 
